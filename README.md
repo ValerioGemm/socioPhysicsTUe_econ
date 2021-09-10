@@ -2,5 +2,13 @@
 A collection of Jupyter notebooks for instructional purposes in the SocioPhysics 1 course taught at Eindhoven University of Technology. 
 Each notebooks teaches you how to perform tasks that will be useful in the SocioPhysics courses.<br/> <br/> <br/>
 
-### Introduction to data analysis with Python [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Joriswillems/socioPhysicsTUe/blob/master/introduction_data_analysis_python.ipynb)
-Introduction to Data Analysis using Numpy and Pandas packages. We perform basic operations such as computing averages, standard deviations, 
+### reddit.ipynb 
+Introduction to the Reddit database. We learn how to open and handle Reddit posts and comments, and how to perform basic analyses.
+
+### stocks.ipynb 
+Introduction to the stock prices dataset. We plot and analyse the dataframes containing the stock prices as traded in the financial markets.
+
+### networks.ipynb 
+Introduction to the concept of network. We define their main properties and show a real-world example
+
+
